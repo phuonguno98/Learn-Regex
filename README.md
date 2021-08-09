@@ -17,4 +17,4 @@
 
 ## License
 
-[MIT](LICENSE.md) &copy; 2021
+Copyright &copy; [Nguyen Thanh Phuong](https://www.github.com/phuonguno98)
