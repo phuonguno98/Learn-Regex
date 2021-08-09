@@ -17,4 +17,4 @@
 
 ## License
 
-Copyright &copy; [Nguyen Thanh Phuong](https://www.github.com/phuonguno98)
+[UNO](LICENSE.md) &copy;
