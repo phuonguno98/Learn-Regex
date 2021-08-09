@@ -1,8 +1,4 @@
-<p align="left">
-    <a href="https://www.facebook.com/phuonguno.vn">	
-        <img width="155px" height="35px" src="/img/facebook-link.PNG" alt="Learn Regex">
-    </a>
-</p>
+<a href="https://www.facebook.com/phuonguno.vn" target="_blank"><img src="/img/facebook-link.PNG" alt="Nguyen Thanh Phuong" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 <p align="center">
