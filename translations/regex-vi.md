@@ -27,7 +27,7 @@ Hãy tưởng tượng bạn đang viết một ứng dụng và bạn muốn đ
 
 <br/><br/>
 <p align="center">
-  <img src="../img/regexp-vn.png" alt="Regular expression">
+  <img src="../img/regexp-vi.png" alt="Regular expression">
 </p>
 
 
