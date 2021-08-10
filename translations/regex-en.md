@@ -36,8 +36,8 @@ validate the username:
   <img src="/img/regexp-en.png" alt="Regular expression">
 </p>
 
-The regular expression above can accept the strings `john_doe`, `jo-hn_doe` and
-`john12_as`. It does not match `Jo` because that string contains an uppercase
+The regular expression above can accept the strings `Uno_vn`, `76Uno` and
+`uno-vn_76`. It does not match `uno` because that string contains an uppercase
 letter and also it is too short.
 
 ## Table of Contents
