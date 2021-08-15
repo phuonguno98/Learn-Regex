@@ -32,7 +32,7 @@ Hãy tưởng tượng bạn đang viết một ứng dụng và bạn muốn đ
 
 
 
-Biểu thức chính quy trên có thể chấp nhận các chuỗi `Uno_vn`, `76Uno` và `uno-vn_76`. Nó không khớp với `uno` vì chuỗi đó chứa chữ hoa và nó quá ngắn.
+Biểu thức chính quy trên có thể chấp nhận các chuỗi `uno_vn`, `76uno` và `uno-vn_76`. Nó không khớp với `Uno` vì chuỗi đó chứa chữ hoa và nó quá ngắn.
 
 ## Table of Contents
 
