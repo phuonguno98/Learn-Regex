@@ -11,7 +11,7 @@
 </p>
 
 
-## Translations ([How to](../translation/how-to.md))
+## Translations ([How to](translations/how-to.md))
 
 * [English](translations/regex-en.md)
 * [Tiếng Việt](translations/regex-vi.md)
