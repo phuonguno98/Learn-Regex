@@ -1,8 +1,3 @@
-<a href="https://www.facebook.com/phuonguno.vn" target="_blank">
-    <img width="20%" height="20%" src="/img/facebook-link.PNG" alt="Nguyen Thanh Phuong" >
-</a>
-
-
 <p align="center">
     <br/>
     <a href="https://github.com/phuonguno98/learn-regex">	
@@ -15,6 +10,14 @@
 
 * [English](translations/regex-en.md)
 * [Tiếng Việt](translations/regex-vi.md)
+
+
+## Contribution
+<div><b>Nguyễn Thanh Phương</b></div>
+Email: unovn.contact@gmail.com
+
+
+Telegram: [phuonguno](https://t.me/phuonguno)
 
 
 ## License
